@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 
-/*
-Test Pull
- */
-
-
 
 package esempiosocket;
 
